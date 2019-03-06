@@ -22,6 +22,7 @@ public class LandingpageTest extends Base {
 		hm.loginn().click();
 		hm.user().sendKeys("sindhu");
 		hm.keyword().sendKeys("naveen");
+		System.out.println("ghghj");
 
 	}
 
